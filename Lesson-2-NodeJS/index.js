@@ -72,7 +72,7 @@ fs.writeFile("demoWriteFile.txt","this is some text.I am a expert programmer",fu
 //     }
 // })
 
-// fs.unlink("demo2.txt",(err)=>{
+// fs.unlink("demo2.txt",(err)=>{   //delete file
 //     if(err){
 //         console.log(err)
 //     }else{
